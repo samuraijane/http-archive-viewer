@@ -1,1 +1,1 @@
-Place HAR files inside of this directory.
+After placing HAR files inside of this directory, replace the .har extension with .json.
