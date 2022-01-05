@@ -1,0 +1,1 @@
+Place HAR files inside of this directory.
